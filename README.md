@@ -15,3 +15,4 @@ Link or copy `skills/*` into the agent's skills directory:
 - confirm-before-commit-and-push
 - no-wildcard-imports-jvm
 - stable-up-to-date-libraries
+- write-self-explanatory-code
